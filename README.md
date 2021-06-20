@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ebmnm
 - 👀 I’m interested in Front-end/Full-stack Development
-- 🌱 I’m currently learning React, Nodejs
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ebmnm@aol.com
 
