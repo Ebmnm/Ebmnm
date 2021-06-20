@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end/Full-stack Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me ebmnm@aol.com
+- 📫 How to reach me ebmnm77@gmail.com
 
 <!---
 Ebmnm/Ebmnm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
